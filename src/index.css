@@ -1,13 +1,61 @@
-body {
-  margin: 0;
-  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
-    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
-    sans-serif;
-  -webkit-font-smoothing: antialiased;
-  -moz-osx-font-smoothing: grayscale;
+body{
+    margin: 0;
+    font-family: Arial, Helvetica, sans-serif;
+   
 }
+.map{
+    width: 100vw;
+    height: 100vh;
+    position: relative;
+  
+}
+location-icon{
+    font-size: 2rem;
+    color: rgb(220, 21, 21);
+}
+@keyframes spinner {
+    0% {
+      transform: rotate(0deg);
+    }
+    100% {
+      transform: rotate(360deg);
+    }
+  }
+  .loading-spinner {
+    width: 50px;
+    height: 50px;
+    border: 10px solid #f3f3f3; /* Light grey */
+    border-top: 10px solid #576deb; /* Black */
+    border-radius: 50%;
+    animation: spinner 1.5s linear infinite;
+  }
+  .spinner-container{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+    background-image: url("https://cdn.dribbble.com/users/117609/screenshots/4235152/dribble-guy-cloud-800x600.gif");
+    object-fit: cover;
+  }
+  .spinner-container h1{
+    font-size: large;
+  }
+  .location-info{
+    position: absolute;
+    right: 50px;
+    width: 400px;
+    min-height: 200px;
+    padding: 20px;
+    background-color: rgba(0,0,0,0.6);
+    border-radius: 10px;
+    font-size: 18px;
 
-code {
-  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
-    monospace;
-}
+  }
+  .location-info ul{
+    list-style-type: none;
+    padding: 0;;
+  }
+  .location-info li{
+    padding: 5px 0;
+  }
