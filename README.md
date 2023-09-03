@@ -87,3 +87,25 @@ To deploy this website to a live server, consider using platforms like Netlify, 
 
 Follow their respective documentation for deployment instructions.
 
+
+# ScreenShots
+
+Example screenshot of the interactive wildfire map.
+
+![image](https://github.com/Divesh1207/Wild_Fire_App/assets/88198940/fcd6dccd-4325-4d7a-9455-e01e36ce6352)
+
+                    Example 1: When User Lands on the website 
+
+
+![image](https://github.com/Divesh1207/Wild_Fire_App/assets/88198940/63a090f4-38aa-497a-ba8b-2b8dcb784a5c)
+
+                    Example 2: Fetches the result 
+
+![image](https://github.com/Divesh1207/Wild_Fire_App/assets/88198940/64f1c78c-9577-4702-b0e2-b80488f05ae1)
+
+
+                   Example 3: User choose their desried location to see the result
+
+
+
+
