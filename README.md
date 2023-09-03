@@ -41,32 +41,32 @@ Responsive Design: The website is designed to be responsive and works seamlessly
 
 # Technologies Used
 
-React: A JavaScript library for building user interfaces.
+1. React: A JavaScript library for building user interfaces.
 
-NASA API: Provides real-time wildfire data.
+2.  NASA API: Provides real-time wildfire data.
 
-Google Maps JavaScript API: Enables the integration of an interactive map.
+3.  Google Maps JavaScript API: Enables the integration of an interactive map.
 
-HTML/CSS: For styling and structuring the web page.
+4.  HTML/CSS: For styling and structuring the web page.
 
 # Getting Started
 
-Clone the Repository:
+# Clone the Repository:
 
 git clone https://github.com/your-username/wildfire-monitoring-website.git
 cd wildfire-monitoring-website
 
-Install Dependencies:
+# Install Dependencies:
 
 npm install
 
-Get API Keys:
+# Get API Keys:
 
 Obtain a NASA API key by signing up at NASA API Portal.
 
 Enable the Google Maps JavaScript API for your project and obtain a Google Maps API key from the Google Cloud Console.
 
-Configure API Keys:
+# Configure API Keys:
 
 In the project directory, create a .env file and add your API keys as follows:
 
@@ -78,7 +78,7 @@ Start the Development Server:
 
 npm start
 
-Open in Browser:
+# Open in Browser:
 
 Open your web browser and visit http://localhost:3000 to explore the wildfire monitoring website.
 
