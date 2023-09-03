@@ -51,12 +51,12 @@ Responsive Design: The website is designed to be responsive and works seamlessly
 
 # Getting Started
 
-# Clone the Repository:
+ Clone the Repository:
 
 git clone https://github.com/your-username/wildfire-monitoring-website.git
 cd wildfire-monitoring-website
 
-# Install Dependencies:
+ Install Dependencies:
 
 npm install
 
