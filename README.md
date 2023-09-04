@@ -5,39 +5,15 @@ The application provides real-time information about wildfire locations and thei
 
 # Features
 
+1. Real-time Wildfire Data: The website fetches real-time wildfire data from NASA's API to provide up-to-date information on wildfire locations and status.
 
-Wildfire Monitoring Website
-Wildfire Monitoring
+2. Interactive Map: The Google Map integration allows users to visualize wildfire data on an interactive map interface.
 
-This is a web application built with React that allows users to monitor and track wildfires using data from NASA's API. The application provides real-time information about wildfire locations and their status on an interactive Google Map.
+3. Location Details: Clicking on a wildfire marker on the map displays detailed information about that particular wildfire, including its name, location, and status.
 
-Features
-Real-time Wildfire Data: The website fetches real-time wildfire data from NASA's API to provide up-to-date information on wildfire locations and status.
+4. Search Functionality: Users can search for specific locations to check for nearby wildfires.
 
-Interactive Map: The Google Map integration allows users to visualize wildfire data on an interactive map interface.
-
-Location Details: Clicking on a wildfire marker on the map displays detailed information about that particular wildfire, including its name, location, and status.
-
-Search Functionality: Users can search for specific locations to check for nearby wildfires.
-
-Responsive Design: The website is designed to be responsive and works seamlessly on various devices, including desktops, tablets, and mobile phones.
-
-
-Wildfire Monitoring Website
-Wildfire Monitoring
-
-This is a web application built with React that allows users to monitor and track wildfires using data from NASA's API. The application provides real-time information about wildfire locations and their status on an interactive Google Map.
-
-Features
-Real-time Wildfire Data: The website fetches real-time wildfire data from NASA's API to provide up-to-date information on wildfire locations and status.
-
-Interactive Map: The Google Map integration allows users to visualize wildfire data on an interactive map interface.
-
-Location Details: Clicking on a wildfire marker on the map displays detailed information about that particular wildfire, including its name, location, and status.
-
-Search Functionality: Users can search for specific locations to check for nearby wildfires.
-
-Responsive Design: The website is designed to be responsive and works seamlessly on various devices, including desktops, tablets, and mobile phones.
+5. Responsive Design: The website is designed to be responsive and works seamlessly on various devices, including desktops, tablets, and mobile phones.
 
 # Technologies Used
 
