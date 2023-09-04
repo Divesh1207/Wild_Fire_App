@@ -13,8 +13,6 @@ The application provides real-time information about wildfire locations and thei
 
 4. Search Functionality: Users can search for specific locations to check for nearby wildfires.
 
-5. Responsive Design: The website is designed to be responsive and works seamlessly on various devices, including desktops, tablets, and mobile phones.
-
 # Technologies Used
 
 1. React: A JavaScript library for building user interfaces.
