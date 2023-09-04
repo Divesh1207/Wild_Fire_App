@@ -28,7 +28,6 @@ The application provides real-time information about wildfire locations and thei
  Clone the Repository:
 
 git clone https://github.com/your-username/wildfire-monitoring-website.git
-
 cd wildfire-monitoring-website
 
 Install Dependencies:
